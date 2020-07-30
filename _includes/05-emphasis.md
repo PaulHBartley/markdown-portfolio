@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+Greetings everyone! My name is Paul Bartley and I am a technical writer based in New Jersey, USA. I am *very* interested in finding opportunitites where I can contribute documentation for open source projects. Please feel free to contact me to discuss your project. **Thank you**.
