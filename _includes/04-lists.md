@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+1. Technical Writing / Documentation
+2. Python
+3. Unix shell (Bash)
